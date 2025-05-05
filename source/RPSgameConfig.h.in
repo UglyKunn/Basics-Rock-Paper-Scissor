@@ -1,0 +1,5 @@
+//Defining the Game's Information
+
+#define RPSgame_VERSION_MAJOR @RPSgame_VERSION_MAJOR@
+#define RPSgame_VERSION_MINOR @RPSgame_VERSION_MINOR@
+#define Project_Name "${CMAKE_PROJECT_NAME}"
